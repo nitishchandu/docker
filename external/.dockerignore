@@ -1,0 +1,5 @@
+*.md
+.dockerignore
+dockerfile
+tmp*
+test*
